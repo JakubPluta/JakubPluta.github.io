@@ -5,7 +5,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Wine%20Quality%20EDA%20-%20Red%20Wine.ipynb)
+- [Red and White Wines Exploration Data Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Wine%20Quality%20EDA%20-%20Red%20Wine.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
