@@ -17,6 +17,7 @@
 - [Global Terrorism Europe Exploration Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Global%20Terrorism%20Europe.ipynb)
 - [PUBG - battle royal game Exploration Data Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/PUBG%20-%20battle%20royal%20game%20EDA.ipynb)
 - [Olympic History Exploration Data Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Olympic%20History.ipynb)
+- [New York City Taxi Fare Exploration Data Analysis And Prediction](https://nbviewer.jupyter.org/github/JakubPluta/NYTaxiFare/blob/master/New_York_18032018.ipynb)
 - [Pokemon Exploration Data Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Pokemon%20EDA.ipynb)
 - [Kiva Crowdfunding Exploration Data Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Kiva%20Crowdfunding%20EDA.ipynb)
 - [World Happiness 2015 Report Exploration Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/World%20Happiness%20Report%202015%20EDA.ipynb)
