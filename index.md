@@ -30,6 +30,7 @@
 - [Fifa 2019 Exploration Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Fifa%2019%20Overall%20EDA.ipynb)
 - [StackOverflow BigQuery Exploration Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/BigQuery.ipynb)
 - [Boston Marathon Exploration Analysis](https://nbviewer.jupyter.org/github/JakubPluta/EDA-ML/blob/master/Boston%20Marathon%20-%20EDA.ipynb)
+
 ---
 
 
