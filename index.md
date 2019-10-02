@@ -4,7 +4,7 @@
 
 ### Webscrapers Projects 
 - [Financial Analysis Tools](https://nbviewer.jupyter.org/github/JakubPluta/Financial_Analysis/blob/master/Investment%20Optimization.ipynb)
--
+
 ### Stock Exchange Tracker for Warsaw Stock Exchange 
 - [Warsaw Stock Exchange Tracker](https://stocktracker-jp.herokuapp.com/)
 
