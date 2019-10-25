@@ -12,6 +12,7 @@
 - [Mountain Weather Forecast Scraper](https://github.com/JakubPluta/Scrapers-Projects/tree/master/Mountain%20Weather%20Forecast%20Scraper)
 - [Weather.gov Scraper](https://github.com/JakubPluta/Scrapers-Projects/tree/master/Weather.gov%20Scraper)
 - [IneedScraper](https://github.com/JakubPluta/EDA-ML/blob/master/Indeed_Scrapper/Indeed_Scrapper.py)
+- [JobScraper_Email](https://github.com/JakubPluta/Scrapers-Projects/blob/master/JobScraper/Job_Scraper.py)
 
 
 ### Exploration Data Analysis & Visualization 
