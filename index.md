@@ -14,6 +14,8 @@
 - [IneedScraper](https://github.com/JakubPluta/EDA-ML/blob/master/Indeed_Scrapper/Indeed_Scrapper.py)
 - [JobScraper_Email](https://github.com/JakubPluta/Scrapers-Projects/blob/master/JobScraper/Job_Scraper.py)
 
+### EDA & ML (Analysis, Visualization, Building Models) 
+- [Credit Card Default Prediction PL](https://nbviewer.jupyter.org/github/JakubPluta/Data-Science/blob/master/Credit%20Approval/Credit%20Card%20Default.ipynb)
 
 ### Exploration Data Analysis & Visualization 
 
