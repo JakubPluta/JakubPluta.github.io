@@ -2,7 +2,7 @@
 
 
 
-### Webscrapers Projects 
+### Finance Projects 
 - [Financial Analysis Tools - In Progress](https://nbviewer.jupyter.org/github/JakubPluta/Financial_Analysis/blob/master/.ipynb_checkpoints/Investment%20Optimization-checkpoint.ipynb) - [Github](https://github.com/JakubPluta/Financial_Analysis/blob/master/Investment%20Optimization.ipynb)
 
 ### Stock Exchange Tracker for Warsaw Stock Exchange 
