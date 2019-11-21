@@ -17,6 +17,7 @@
 ### EDA & ML (Analysis, Visualization, Building Models) 
 - [Credit Card Default Prediction PL](https://nbviewer.jupyter.org/github/JakubPluta/Data-Science/blob/master/Credit%20Card%20Default/Credit%20Card%20Default.ipynb)
 - [Fraud Detection PL](https://nbviewer.jupyter.org/github/JakubPluta/Data-Science/blob/master/Fraud%20Detection/Fraud%20Detection.ipynb)
+- [Email Spam Detection PL](https://nbviewer.jupyter.org/github/JakubPluta/Data-Science/blob/master/Spam%20Filter/Spam%20Filter.ipynb)
 
 ### Exploration Data Analysis & Visualization 
 
