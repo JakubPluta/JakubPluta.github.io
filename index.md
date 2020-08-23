@@ -4,6 +4,8 @@
 
 ### Finance Projects 
 - [Financial Analysis Tools - In Progress](https://nbviewer.jupyter.org/github/JakubPluta/Financial_Analysis/blob/master/.ipynb_checkpoints/Investment%20Optimization-checkpoint.ipynb) - [Github](https://github.com/JakubPluta/Financial_Analysis/blob/master/Investment%20Optimization.ipynb)
+- [Stock Screener - Reporting Tool](https://github.com/JakubPluta/stock-screener)
+- [Fin Streamlit](https://github.com/JakubPluta/fin-streamlit)
 
 ### Stock Exchange Tracker for Warsaw Stock Exchange 
 - [Warsaw Stock Exchange Tracker](https://stocktracker-jp.herokuapp.com/)
